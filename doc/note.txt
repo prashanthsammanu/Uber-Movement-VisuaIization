@@ -1,0 +1,23 @@
+// // d3 update patterns
+// const update = (data) => {
+//   // 1. update scales (domains) if they rely on data
+//   y.domain([0, d3.max(data, (d) => d.orders)]);
+
+//   // 2. join update data to elements
+//   const rects = graph.selectAll("rect").data(data);
+
+//   // 3. remove unwanted (if any) shapes using the exist selections
+
+//   rects.exit().remove();
+
+//   // 4. update current shape in dom
+//   rects.attr(...etc);
+
+//   // 5. append the enter selection to the dom
+//   rects
+//     .enter()
+//     .append("rect")
+//     .attr(...etc);
+// };
+// drawPlanets("planets.json");
+// drawChart(data);

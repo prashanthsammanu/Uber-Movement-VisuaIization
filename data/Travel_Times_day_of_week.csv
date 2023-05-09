@@ -1,0 +1,8 @@
+"Day Of Week","Origin Movement ID","Origin Display Name","Destination Movement ID","Destination Display Name","Date Range","Mean Travel Time (Seconds)","Range - Lower Bound Travel Time (Seconds)","Range - Upper Bound Travel Time (Seconds)"
+"Monday","89","Bengaluru, Karnataka","89","Bengaluru, Karnataka","3/1/2020 - 3/31/2020, Daily Average",363,151,872
+"Tuesday","89","Bengaluru, Karnataka","89","Bengaluru, Karnataka","3/1/2020 - 3/31/2020, Daily Average",322,154,672
+"Wednesday","89","Bengaluru, Karnataka","89","Bengaluru, Karnataka","3/1/2020 - 3/31/2020, Daily Average",306,157,595
+"Thursday","89","Bengaluru, Karnataka","89","Bengaluru, Karnataka","3/1/2020 - 3/31/2020, Daily Average",265,131,536
+"Friday","89","Bengaluru, Karnataka","89","Bengaluru, Karnataka","3/1/2020 - 3/31/2020, Daily Average",299,167,534
+"Saturday","89","Bengaluru, Karnataka","89","Bengaluru, Karnataka","3/1/2020 - 3/31/2020, Daily Average",347,179,670
+"Sunday","89","Bengaluru, Karnataka","89","Bengaluru, Karnataka","3/1/2020 - 3/31/2020, Daily Average",339,157,728

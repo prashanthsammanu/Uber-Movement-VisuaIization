@@ -1,0 +1,97 @@
+.nav {
+  background: #333;
+}
+button {
+  background: #333 !important;
+  margin-bottom: 20px;
+  width: 100%;
+  padding: 16px;
+  font-size: 1.6em;
+  color: #fff;
+  border: 0;
+  border-radius: 4px;
+  cursor: pointer;
+}
+button.active {
+  background: #00bfa5 !important;
+}
+
+form span {
+  color: #00bfa5 !important;
+}
+.x-axis path,
+.y-axis path,
+.x-axis line,
+.y-axis line {
+  stroke: #ccc;
+}
+.x-axis text,
+.y-axis text {
+  fill: #ccc;
+  font-size: 14px;
+}
+
+.text {
+  font-size: 12px;
+  fill: #00bfa5;
+}
+
+svg {
+  font-family: Sans-Serif, Arial;
+}
+
+.line {
+  stroke-width: 2;
+  fill: none;
+}
+
+.axis path {
+  stroke: #ccc;
+}
+
+.axis text {
+  fill: #ccc;
+  font-size: 14px;
+}
+
+.title-text {
+  font-size: 12px;
+}
+
+.input {
+  color: #fff;
+  width: auto;
+  margin: 10px auto;
+}
+
+.map {
+  fill: #f0f4f5;
+  stroke: #f5f7f8;
+  stroke-width: 1px;
+}
+.ward:hover {
+  fill: #89f8fc;
+}
+.tooltip {
+  position: absolute;
+  z-index: 9999;
+  background-color: #eee;
+  padding: 5px;
+  border: 1px solid #aaa;
+  border-radius: 5px;
+  font-size: 12px;
+  pointer-events: none;
+}
+.route {
+  stroke: #ff6384;
+  stroke-width: 2px;
+  fill: none;
+}
+
+#line-chart {
+  width: 600px;
+  height: 300px;
+  margin: 20px auto;
+  border: 1px solid #ccc;
+  color: #ccc;
+}

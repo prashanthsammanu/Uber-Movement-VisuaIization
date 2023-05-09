@@ -1,0 +1,96 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <!-- Compiled and minified CSS -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/css/materialize.min.css"
+    />
+
+    <link rel="stylesheet" href="styles.css" />
+    <title>Uber Movement Visualization</title>
+  </head>
+  <body class="grey darken-4">
+    <div class="nav z-depth-0">
+      <div class="section center">
+        <h3 class="white-text center">Uber Movement Visualization</h3>
+      </div>
+    </div>
+
+    <div class="section center">
+      <p class="grey-text flow-text">A uber traffic tracker project</p>
+    </div>
+
+    <div class="container section">
+      <div class="col s12 l6 push-l1">
+        <h3 class="white-text">Bangalore Map Visualization</h3>
+
+        <div id="heat-map">
+          <div class="tooltip" id="tooltip1"></div>
+          <div class="tooltip" id="tooltip2"></div>
+        </div>
+      </div>
+
+      <div class="row" style="margin-bottom: 40px">
+        <div class="col s12 l5">
+          <button class="active" data-activity="day_vs_time">
+            Day vs Time
+          </button>
+          <button data-activity="am_vs_pm">AM vs PM</button>
+        </div>
+        <div class="col s12 l6 push-l1">
+          <div class="canvas section center"></div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col s12 l5">
+          <form class="col" id="theForm">
+            <h3 class="white-text">Weekends vs Weekdays</h3>
+            <div class="number-input">
+              <div>
+                <label>Source ID</label>
+                <input
+                  type="number"
+                  id="source_value"
+                  name="quantity"
+                  min="0"
+                  max="100"
+                  value="0"
+                  class="input"
+                />
+              </div>
+            </div>
+            <div>
+              <label>Destination ID</label>
+              <input
+                type="number"
+                id="destination_value"
+                name="quantity"
+                min="0"
+                max="100"
+                value="0"
+                class="input"
+              />
+            </div>
+            <button type="submit" id="submit-btn">Submit</button>
+          </form>
+        </div>
+        <div class="col s12 l6 push-l1">
+          <div class="section center" id="canvas"></div>
+        </div>
+      </div>
+    </div>
+
+    <script src="https://www.gstatic.com/firebasejs/5.4.2/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/5.4.2/firebase-firestore.js"></script>
+    <script src="https://d3js.org/d3.v5.js"></script>
+    <script src="index.js"></script>
+    <script src="./graphs/linerChart.js"></script>
+    <script src="./graphs/multiLineChart.js"></script>
+    <script src="./graphs/weekChart.js"></script>
+    <script src="./graphs/heatMap.js"></script>
+  </body>
+</html>

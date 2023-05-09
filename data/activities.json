@@ -1,0 +1,47 @@
+[
+  {
+    "activity": "day_vs_time",
+    "date": "Sun May 07 2023 18:03:47 GMT+0530 (India Standard Time)",
+    "distance": 100
+  },
+  {
+    "activity": "day_vs_time",
+    "date": "Sun May 08 2023 20:03:47 GMT+0530 (India Standard Time)",
+    "distance": 50
+  },
+  {
+    "activity": "day_vs_time",
+    "date": "Sun May 09 2023 21:03:47 GMT+0530 (India Standard Time)",
+    "distance": 500
+  },
+  {
+    "activity": "day_vs_time",
+    "date": "Sun May 10 2023 21:03:47 GMT+0530 (India Standard Time)",
+    "distance": 700
+  },
+  {
+    "activity": "day_vs_time",
+    "date": "Sun May 11 2023 21:03:47 GMT+0530 (India Standard Time)",
+    "distance": 400
+  },
+  {
+    "activity": "day_vs_time",
+    "date": "Sun May 12 2023 21:03:47 GMT+0530 (India Standard Time)",
+    "distance": 900
+  },
+  {
+    "activity": "weekends_vs_weekdays",
+    "date": "Sun May 10 2023 18:03:47 GMT+0530 (India Standard Time)",
+    "distance": 500
+  },
+  {
+    "activity": "weekends_vs_weekdays",
+    "date": "Sun May 11 2023 17:03:47 GMT+0530 (India Standard Time)",
+    "distance": 200
+  },
+  {
+    "activity": "weekends_vs_weekdays",
+    "date": "Sun May 12 2023 12:03:47 GMT+0530 (India Standard Time)",
+    "distance": 100
+  }
+]

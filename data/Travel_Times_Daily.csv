@@ -1,0 +1,24 @@
+Date,Origin _Movement_ID,Origin_Display_Name,Destination_Movement_ID,Destination_Display_Name,Daily_Mean_Travel_Time,Daily_Range_Lower_Bound_Travel_Time_Seconds,Daily_Range_Upper_Bound_Travel_Time_Seconds,AM_Mean_Travel_Time_Seconds,Evening_Mean_Travel_Time_Seconds,Evening Range - Lower Bound Travel Time (Seconds),Evening Range - Upper Bound Travel Time (Seconds)
+03/01/2020,89,"Bengaluru, Karnataka",89,"Bengaluru, Karnataka",397,172,917,172,397,172,917
+03/02/2020,89,"Bengaluru, Karnataka",89,"Bengaluru, Karnataka",480,181,1275,181,480,181,1275
+03/03/2020,89,"Bengaluru, Karnataka",89,"Bengaluru, Karnataka",318,176,574,176,318,176,574
+03/04/2020,89,"Bengaluru, Karnataka",89,"Bengaluru, Karnataka",306,158,590,158,306,158,590
+03/05/2020,89,"Bengaluru, Karnataka",89,"Bengaluru, Karnataka",294,138,624,138,294,138,624
+03/06/2020,89,"Bengaluru, Karnataka",89,"Bengaluru, Karnataka",290,167,504,167,290,167,504
+03/07/2020,89,"Bengaluru, Karnataka",89,"Bengaluru, Karnataka",387,206,727,206,387,206,727
+03/08/2020,89,"Bengaluru, Karnataka",89,"Bengaluru, Karnataka",307,151,620,151,307,151,620
+03/09/2020,89,"Bengaluru, Karnataka",89,"Bengaluru, Karnataka",364,151,877,151,364,151,877
+03/10/2020,89,"Bengaluru, Karnataka",89,"Bengaluru, Karnataka",269,125,580,125,269,125,580
+03/11/2020,89,"Bengaluru, Karnataka",89,"Bengaluru, Karnataka",317,154,652,154,317,154,652
+03/12/2020,89,"Bengaluru, Karnataka",89,"Bengaluru, Karnataka",229,121,432,121,229,121,432
+03/13/2020,89,"Bengaluru, Karnataka",89,"Bengaluru, Karnataka",263,162,426,162,263,162,426
+03/14/2020,89,"Bengaluru, Karnataka",89,"Bengaluru, Karnataka",237,134,419,134,237,134,419
+03/15/2020,89,"Bengaluru, Karnataka",89,"Bengaluru, Karnataka",235,130,424,130,235,130,424
+03/16/2020,89,"Bengaluru, Karnataka",89,"Bengaluru, Karnataka",192,103,359,103,192,103,359
+03/17/2020,89,"Bengaluru, Karnataka",89,"Bengaluru, Karnataka",240,125,459,125,240,125,459
+03/18/2020,89,"Bengaluru, Karnataka",89,"Bengaluru, Karnataka",266,162,437,162,266,162,437
+03/19/2020,89,"Bengaluru, Karnataka",89,"Bengaluru, Karnataka",221,123,396,123,221,123,396
+03/20/2020,89,"Bengaluru, Karnataka",89,"Bengaluru, Karnataka",466,187,1160,187,466,187,1160
+03/21/2020,89,"Bengaluru, Karnataka",89,"Bengaluru, Karnataka",359,164,787,164,359,164,787
+03/22/2020,89,"Bengaluru, Karnataka",89,"Bengaluru, Karnataka",528,197,1411,197,528,197,1411
+03/24/2020,89,"Bengaluru, Karnataka",89,"Bengaluru, Karnataka",,,,,,,
